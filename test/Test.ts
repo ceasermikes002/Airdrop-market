@@ -1,0 +1,1 @@
+//I tested it with remix to ensure the contract is working effectively
